@@ -1,2 +1,2 @@
 
-Here are the codes in NN based on Tensorflow libraries and Keras!
+Here are the codes in NN based on Tensorflow and Keras libraries!
